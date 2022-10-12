@@ -2,7 +2,7 @@
 
 [Paper]() | [Project Page](https://wacv-1752.github.io/FastSwap/) | [Video]()
 
-[![demo](https://img.shields.io/badge/Demo-%F0%9F%9A%80%20Replicate-blue)](https://wacv-1752.github.io/FastSwap/)
+[![demo](https://img.shields.io/badge/Demo-%F0%9F%9A%80%-blue)](https://wacv-1752.github.io/FastSwap/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sahngmin/fastswap)
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=sczhou/CodeFormer) -->
