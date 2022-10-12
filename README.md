@@ -14,9 +14,16 @@ RIT-Lab, KAIST (Korea Advanced Institute of Science and Technology)
 
 <img src="figs/main.png" width="1024px"/>
 
+#### Architecture of FastSwap
 <img src="figs/main_network.png" width="1024px"/>
 
+
+#### Face Swapping Results of FastSwap
 <img src="figs/additional.png" width="1024px"/>
+
+### Dependencies and Installation
+- Pytorch >= 1.2.1
+- CUDA >= 10.0
 
 🤗 Code will be released soon..
 
