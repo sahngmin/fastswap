@@ -12,6 +12,7 @@ AI Research, KLleon
 
 RIT-Lab, KAIST (Korea Advanced Institute of Science and Technology)
 
+#### Real-Time Face Swapping
 <img src="figs/main.png" width="1024px"/>
 
 #### Architecture of FastSwap
