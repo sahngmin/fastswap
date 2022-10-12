@@ -3,7 +3,7 @@
 [Paper]() | [Project Page](https://wacv-1752.github.io/FastSwap/) | [Video]()
 
 [![paper](https://img.shields.io/badge/arxiv-paper-red)]()
-[![demo](https://img.shields.io/badge/project-%F0%9F%9A%80%20page-blue)](https://wacv-1752.github.io/FastSwap/)
+[![demo](https://img.shields.io/badge/webpage-%F0%9F%9A%80%20project-blue)](https://wacv-1752.github.io/FastSwap/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sahngmin/fastswap)
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=sczhou/CodeFormer) -->
