@@ -1,6 +1,6 @@
 ## FastSwap: A Lightweight One-Stage Framework for Real-Time Face Swapping (WACV 2023)
 
-[Paper](https://arxiv.org/abs/2206.11253) | [Project Page](https://shangchenzhou.com/projects/CodeFormer/) | [Video](https://youtu.be/d3VDpkXlueI)
+[Paper]() | [Project Page](https://wacv-1752.github.io/FastSwap/) | [Video]()
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sahngmin/fastswap)
@@ -11,8 +11,7 @@ AI Research, KLleon
 
 RIT-Lab, KAIST (Korea Advanced Institute of Science and Technology)
 
-
-<img src="figs/main_network.png" width="800px"/>
+<img src="figs/main_network.png" width="1024px"/>
 
 
 :star: If FastSwap is helpful to your projects, please help star this repo. Thanks!
