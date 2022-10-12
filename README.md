@@ -2,7 +2,7 @@
 
 [Paper]() | [Project Page](https://wacv-1752.github.io/FastSwap/) | [Video]()
 
-[![paper](https://img.shields.io/badge/arxiv-report-red)]()
+[![paper](https://img.shields.io/badge/arxiv-paper-red)]()
 [![demo](https://img.shields.io/badge/project-%F0%9F%9A%80%20-blue)](https://wacv-1752.github.io/FastSwap/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sahngmin/fastswap)
 
