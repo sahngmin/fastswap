@@ -1,6 +1,6 @@
 ## FastSwap: A Lightweight One-Stage Framework for Real-Time Face Swapping (WACV 2023)
 
-[Paper]() | [Project Page](https://wacv-1752.github.io/FastSwap/) | [Video]()
+[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Yoo_FastSwap_A_Lightweight_One-Stage_Framework_for_Real-Time_Face_Swapping_WACV_2023_paper.pdf) | [Project Page](https://wacv-1752.github.io/FastSwap/) | [Video]()
 
 [![paper](https://img.shields.io/badge/arxiv-paper-red)]()
 [![demo](https://img.shields.io/badge/webpage-%F0%9F%9A%80%20project-blue)](https://wacv-1752.github.io/FastSwap/)
